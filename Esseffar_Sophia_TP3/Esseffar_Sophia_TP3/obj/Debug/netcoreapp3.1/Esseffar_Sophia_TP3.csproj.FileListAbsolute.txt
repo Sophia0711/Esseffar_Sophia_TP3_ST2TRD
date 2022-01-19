@@ -1,0 +1,14 @@
+C:\Users\rayan\Desktop\S9\Trading\TP\Esseffar_Sophia_TP3\Esseffar_Sophia_TP3\obj\Debug\netcoreapp3.1\Esseffar_Sophia_TP3.csproj.AssemblyReference.cache
+C:\Users\rayan\Desktop\S9\Trading\TP\Esseffar_Sophia_TP3\Esseffar_Sophia_TP3\obj\Debug\netcoreapp3.1\Esseffar_Sophia_TP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rayan\Desktop\S9\Trading\TP\Esseffar_Sophia_TP3\Esseffar_Sophia_TP3\obj\Debug\netcoreapp3.1\Esseffar_Sophia_TP3.AssemblyInfoInputs.cache
+C:\Users\rayan\Desktop\S9\Trading\TP\Esseffar_Sophia_TP3\Esseffar_Sophia_TP3\obj\Debug\netcoreapp3.1\Esseffar_Sophia_TP3.AssemblyInfo.cs
+C:\Users\rayan\Desktop\S9\Trading\TP\Esseffar_Sophia_TP3\Esseffar_Sophia_TP3\obj\Debug\netcoreapp3.1\Esseffar_Sophia_TP3.csproj.CoreCompileInputs.cache
+C:\Users\rayan\Desktop\S9\Trading\TP\Esseffar_Sophia_TP3\Esseffar_Sophia_TP3\bin\Debug\netcoreapp3.1\Esseffar_Sophia_TP3.exe
+C:\Users\rayan\Desktop\S9\Trading\TP\Esseffar_Sophia_TP3\Esseffar_Sophia_TP3\bin\Debug\netcoreapp3.1\Esseffar_Sophia_TP3.deps.json
+C:\Users\rayan\Desktop\S9\Trading\TP\Esseffar_Sophia_TP3\Esseffar_Sophia_TP3\bin\Debug\netcoreapp3.1\Esseffar_Sophia_TP3.runtimeconfig.json
+C:\Users\rayan\Desktop\S9\Trading\TP\Esseffar_Sophia_TP3\Esseffar_Sophia_TP3\bin\Debug\netcoreapp3.1\Esseffar_Sophia_TP3.runtimeconfig.dev.json
+C:\Users\rayan\Desktop\S9\Trading\TP\Esseffar_Sophia_TP3\Esseffar_Sophia_TP3\bin\Debug\netcoreapp3.1\Esseffar_Sophia_TP3.dll
+C:\Users\rayan\Desktop\S9\Trading\TP\Esseffar_Sophia_TP3\Esseffar_Sophia_TP3\bin\Debug\netcoreapp3.1\Esseffar_Sophia_TP3.pdb
+C:\Users\rayan\Desktop\S9\Trading\TP\Esseffar_Sophia_TP3\Esseffar_Sophia_TP3\obj\Debug\netcoreapp3.1\Esseffar_Sophia_TP3.dll
+C:\Users\rayan\Desktop\S9\Trading\TP\Esseffar_Sophia_TP3\Esseffar_Sophia_TP3\obj\Debug\netcoreapp3.1\Esseffar_Sophia_TP3.pdb
+C:\Users\rayan\Desktop\S9\Trading\TP\Esseffar_Sophia_TP3\Esseffar_Sophia_TP3\obj\Debug\netcoreapp3.1\Esseffar_Sophia_TP3.genruntimeconfig.cache
